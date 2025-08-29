@@ -1,0 +1,10 @@
+[User's Natural Language Question]
+                ↓
+       [Search relevant document]
+         via keyword or embedding
+                ↓
+     [Fetch raw JSON or table data]
+                ↓
+[Send JSON + question → Gemini or LLM]
+                ↓
+      [Human-like answer returned]

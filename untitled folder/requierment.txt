@@ -1,0 +1,9 @@
+einops
+numpy<2.0
+pymongo 
+python-dotenv
+sentence-transformers
+langchain
+langchain-google-genai 
+numpy
+torch torchvision 
